@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bonjour ! Je m'appelle **Colin BAZELAIRE**, j'ai **20 ans** et je suis étudiant à l'IUT de Troyes en **BUT MMI**. <br><br>🎬 Actuellement, je travaille sur une application web de consultation de films et d'acteurs. Mon objectif est de créer une expérience utilisateur fluide et agréable.<br><br>🛠️ En ce moment, j'apprends à maîtriser les frameworks suivants :<br>- **Symfony**<br>- **VueJS**<br>- **API Platform**<br><br>🔍 Je suis à la recherche d'un **stage en développement web** d'une durée minimale de **16 semaines** à partir du **31 mars**.
+👋 Bonjour ! Je m'appelle **Colin BAZELAIRE**, j'ai **20 ans** et je suis étudiant à l'IUT de Troyes en **BUT MMI**. <br><br>🎬 Actuellement, je travaille sur une application web de consultation de films et d'acteurs. Mon objectif est de créer une expérience utilisateur fluide et agréable.<br><br>🛠️ En ce moment, j'apprends à maîtriser les frameworks suivants :<br>- **Symfony**<br>- **VueJS**<br>- **API Platform**<br>
 
 
 ## 🌐 Socials:
